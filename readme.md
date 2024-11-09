@@ -24,7 +24,7 @@ This repository contains my solutions for the [Everybody Codes](https://everybod
 
 | Languages | Days |
 |-----------|------|
-| [`C`](./2024/c/) | [`1`](./2024/c/1) |
+| [`C`](./2024/c/) | [`1`](./2024/c/1) [`2`](./2024/c/2/) |
 
 # Language Support
 
